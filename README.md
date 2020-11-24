@@ -2,3 +2,6 @@
 
 Package contains fixed kext for Catalina.
 
+TESTED WITH OPENCORE
+
+Put it in KEXTS folder in OPENCORE
